@@ -2,7 +2,6 @@
 
 You can view this portfolio website with this URL: https://sensational-meerkat-200873.netlify.app
 
-Certainly! Here's a template for your GitHub README file for your personal portfolio website:
 
 # My Personal Portfolio Website
 
