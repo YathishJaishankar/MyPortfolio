@@ -1,6 +1,6 @@
 # MyPortfolio
 
-You cn view this portfolio website with this URL: https://sensational-meerkat-200873.netlify.app
+You can view this portfolio website with this URL: https://sensational-meerkat-200873.netlify.app
 
 
 # My Personal Portfolio Website
