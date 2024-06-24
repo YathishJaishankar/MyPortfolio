@@ -10,7 +10,7 @@ Welcome to my personal portfolio website repository! This is where I showcase my
 
 ## Introduction
 
-This is the codebase for my personal portfolio website. It serves as  central hub where I display my resume, share my projects, and provide a way for visitors to get in touch with me. I created 
+This is the codebase for my personal portfolio website. It serves as a central hub where I display my resume, share my projects, and provide a way for visitors to get in touch with me. I created 
 this project in my second year of my undergraduation to get an hands on experience on web development. So I used plain Vanilla css and javascript to make a fully responsive website on my own
 to get a hands on experience in web development. To be frank this website will be amateur to my recent projects. I am very happy to share that this is my first personal portfolio website 
 and it also helps to see my progress to where I am standing today.
